@@ -1,6 +1,7 @@
 {
   "enabled": true,
   "message": "",
-  "blocked": ["IMR-5G8Y-87RY"],
+  "allowed": [""],
+  "blocked": [""],
   "blocked_message": "আপনার একসেস বন্ধ করা হয়েছে। যোগাযোগ করুন: @imran_khan013230."
 }
