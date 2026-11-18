@@ -2,6 +2,6 @@
   "enabled": true,
   "message": "",
   "allowed": [""],
-  "blocked": [""],
-  "blocked_message": "আপনার একসেস বন্ধ করা হয়েছে। যোগাযোগ করুন: @imran_khan013230."
+  "blocked": [],
+  "blocked_message": "আপনার একসেস চালু হয়নি, YOUR ID কপি করে আমাকে পাঠান: @imran_khan013230."
 }
