@@ -1,6 +1,6 @@
 {
   "enabled": true,
   "message": "",
-  "blocked": [IMR-5G8Y-87RY],
+  "blocked": ["IMR-5G8Y-87RY"],
   "blocked_message": "Your access has been disabled."
 }
