@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "message": "ফাইলে কাজ চলতেছে, খুব দ্রুত আমরা ঠিক করব",
+  "enabled": true,
+  "message": "",
   "allowed": ["IMR-5G8Y-87RY"],
   "blocked": [],
   "blocked_message": "✰ আপনার একসেস চালু নেই যোগাযোগ করুন: নিচের ⇩ Telegram বাটন চাপুন."
