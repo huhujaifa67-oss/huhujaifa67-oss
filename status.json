@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "message": "",
-  "allowed": ["IMR-QLWW-QHWU", "IMR-5G8Y-87RY","IMR-T787-E2HD"],
+  "allowed": ["IMR-QLWW-QHWU", "IMR-5G8Y-87RY","IMR-T787-E2HD","IMR-XW58-XEAK"],
   "blocked": [],
   "blocked_message": "✰ আপনার একসেস চালু নেই যোগাযোগ করুন: নিচের ⇩ Telegram বাটন চাপুন."
 }
