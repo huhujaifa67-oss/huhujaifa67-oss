@@ -1,7 +1,7 @@
 {
-  "enabled": true,
-  "message": "",
-  "allowed": ["IMR-QLWW-QHWU", "IMR-5G8Y-87RY","IMR-T787-E2HD","IMR-XW58-XEAK","IMR-GWXY-XR8D","IMR-FPS9-5L28","IMR-B9RF-TWN9","IMR-CW6F-22JP"],
+  "enabled": false,
+  "message": "আপডেট এর কাজ চলতেছে, খুব শীঘ্রই ঠিক হবে ধৈর্য ধরুন 🙂",
+  "allowed": ["IMR-QLWW-QHWU", "IMR-5G8Y-87RY","IMR-T787-E2HD","IMR-XW58-XEAK","IMR-GWXY-XR8D","IMR-FPS9-5L28","IMR-B9RF-TWN9","IMR-CW6F-22JP","IMR-SVAE-LSLQ"],
   "blocked": [],
   "blocked_message": "✰ আপনার মেথড চালু নেই যোগাযোগ করুন: নিচের ⇩ Telegram বাটন চাপুন."
 }
